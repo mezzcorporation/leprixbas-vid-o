@@ -27,3 +27,6 @@ Note du 17/10 : Lyam demande de lui envoyer directement les 4 vidéos + descript
 
 Note du 18/10 : déjà utilisés — labyrinthe 3D + faisceau vert, bouton « Voir l’offre », anneau 24 mois, garanties légales (neuf / occasion / particuliers). Pour une forme 3D, garder ~60 px de marge à droite (perspective). Sur les vidéos longues, garder un mouvement continu (zoom lent, pulsation) pendant la lecture.
 Déjà utilisés le 18/10 (vidéos 3-4) : calcul de marge Pro, export Excel et ses colonnes, « STOP. » + bouton Payer, interrupteur « Classer livraison comprise », ticket de caisse « Total vérifié. ». RAPPEL : 4 vidéos par jour (2 via Metricool + 2 envoyées à Lyam).
+
+RÈGLE DE CADRAGE (Lyam, 18/10, très important) : TOUT doit être CENTRÉ au milieu de l'image (axe x=540) avec des marges SYMÉTRIQUES : contenu principal entre x=140 et x=940 (même marge 140 px à gauche et à droite), jamais décalé vers la gauche pour éviter les icônes TikTok. Vérifier sur chaque planche avec une ligne rouge à x=540.
+Note du 18/10 (soir) : les 4 vidéos du jour ont été re-rendues CENTRÉES sur x=540 (marges 140/140) à la demande de Lyam et renvoyées. Un élément posé sur une diagonale (faisceau) doit tomber sur x=540 ; une paire d'éléments apparaît ensemble pour ne jamais laisser un élément seul décalé.
